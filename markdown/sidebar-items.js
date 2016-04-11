@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["file_to_html","Opens a file and converts its contents to HTML"],["to_html","Converts a Markdown string to HTML"],["tokenize","Converts a Markdown string to a tokenset of Markdown items"]]});
